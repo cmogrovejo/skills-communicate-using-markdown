@@ -4,3 +4,5 @@
 #### fourth level header
 ##### the fifth level
 ###### sixth level
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
